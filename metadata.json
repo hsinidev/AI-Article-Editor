@@ -1,0 +1,5 @@
+{
+  "name": "AI Article Editor",
+  "description": "An application to generate long-form blog posts section-by-section to avoid server timeouts. It uses Gemini to generate an outline, then generates content for each section individually, and finally adds a footer.",
+  "requestFramePermissions": []
+}
